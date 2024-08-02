@@ -431,7 +431,7 @@
     .about__top-svg-3 {
         width: 100%;
         height: 114px;
-        background-image: url(../img/Vectorsvg-3.svg);
+        background-image: url(../img/Vectorsvg-3.svg), url(img/Vectorsvg-3.svg);
         background-size: contain;
         background-repeat: no-repeat;
     }
